@@ -22,10 +22,3 @@ This project classifies customer reviews in the hospitality domain as **positive
 | Logistic Regression | 85%      |
 | Naive Bayes         | 80%      |
 | Random Forest       | 83%      |
-
-## 🚀 How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/sachin2004-jlr/sentiment-analysis-reviews.git
-   cd sentiment-analysis-reviews
