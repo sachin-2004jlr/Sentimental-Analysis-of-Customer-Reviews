@@ -6,7 +6,7 @@ This project classifies customer reviews in the hospitality domain as **positive
 ## 📦 Dataset
 
 - **Features**: `review_text`
-- **Target**: `sentiment` (Positive, Neutral, Negative)
+- **Target**: `sentiment` (Positive,Negative)
 
 ## 🔧 Techniques Used
 
