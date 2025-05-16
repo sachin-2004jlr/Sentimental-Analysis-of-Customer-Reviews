@@ -27,5 +27,5 @@ This project classifies customer reviews in the hospitality domain as **positive
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/sachin2004jlr/sentiment-analysis-reviews.git
+   git clone https://github.com/sachin2004-jlr/sentiment-analysis-reviews.git
    cd sentiment-analysis-reviews
