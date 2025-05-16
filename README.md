@@ -1,7 +1,7 @@
 # Sentimental-Analysis-of-Customer-Reviews
 # 📝 Sentiment Analysis of Customer Reviews
 
-This project classifies customer reviews in the hospitality domain as **positive**, **negative**, or **neutral** using Natural Language Processing (NLP) and machine learning techniques. It helps businesses automatically understand customer sentiment to improve service quality.
+This project classifies customer reviews in the hospitality domain as **positive**, **negative**, or **neutral** using Natural Language Processing (NLP) and machine learning techniques. It helps businesses automatically understand customer sentiment to improve service quality. 
 
 ## 📦 Dataset
 
